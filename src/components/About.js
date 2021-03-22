@@ -5,7 +5,7 @@ const About = () => (
   <div className="know-your-agency-about">
     <h2>Press Coverage</h2>
     <p>
-      This website was covered by the South China Morning Post in <a href="https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2155292/data-lays-bare-hidden-links-hong-kongs" target="_blank">this</a> article.
+      This website was covered by the South China Morning Post in <a href="https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2155292/data-lays-bare-hidden-links-hong-kongs" target="_blank" rel="noopener noreferrer">this</a> article.
     </p>
     <h2>Purpose</h2>
     <p>
@@ -19,7 +19,7 @@ const About = () => (
     </p>
     <p>
       Research has shown that over <b>70%</b> of agencies are
-      known to be operating illegally <sup><a href=" http://www.scmp.com/news/hong-kong/law-crime/article/2093836/study-finds-hong-kong-domestic-helpers-subjected-employment" target="_blank">[1]</a></sup>.
+      known to be operating illegally <sup><a href=" http://www.scmp.com/news/hong-kong/law-crime/article/2093836/study-finds-hong-kong-domestic-helpers-subjected-employment" target="_blank" rel="noopener noreferrer">[1]</a></sup>.
     </p>
     <h2>Results</h2>
     <ul>
