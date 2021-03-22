@@ -58,12 +58,6 @@
       "Widgets": [{
         "Type": "About"
       }]
-    },
-    {
-      "PageTitle": "Contact",
-      "Widgets": [{
-        "Type": "Form"
-      }]
     }
   ]
 }

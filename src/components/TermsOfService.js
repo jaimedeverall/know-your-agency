@@ -4,7 +4,7 @@ import '../css/know-your-agency.css';
 const TermsOfService = () => (
   <div className="know-your-agency-about">
     <h2>Terms of Use</h2>
-    <p>Last updated July 2, 2018</p>
+    <p>Last updated March 22, 2021</p>
     <h3>AGREEMENT TO TERMS</h3>
     <p>These Terms of Use constitute a legally binding agreement made between you,
       whether personally or on behalf of an entity ("you") and Know Your Agency

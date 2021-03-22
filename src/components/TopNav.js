@@ -25,11 +25,6 @@ const TopNav = ({resetState}) => (
         <LinkContainer to="/Search" onClick={resetState}>
           <NavItem className="know-your-agency-navbar-items">Agency Search</NavItem>
         </LinkContainer>
-        <LinkContainer to="/Contact" onClick={resetState}>
-          <NavItem className="know-your-agency-navbar-items">
-            Contact ✉
-          </NavItem>
-        </LinkContainer>
         <LinkContainer to="/TermsOfService" onClick={resetState}>
           <NavItem className="know-your-agency-navbar-items">
             Terms of Service
